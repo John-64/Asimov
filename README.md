@@ -1,5 +1,4 @@
 # Asimov
-Asimov is a web application developed as part of the "Web Technologies and Software" course at the University of Salerno.
 The project aims to provide an e-commerce platform for selling smartphones, tablets, and laptops.
 
 ## Screenshot
